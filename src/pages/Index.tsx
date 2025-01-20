@@ -9,7 +9,7 @@ const Index = () => {
       <header className="border-b bg-gradient-to-r from-purple-600 to-orange-500">
         <div className="container mx-auto px-4 py-6 flex justify-between items-center">
           <h1 className="text-3xl font-bold text-white font-serif">
-            AudioBook Premium
+            Voicify
           </h1>
           <div className="space-x-4">
             <Button variant="secondary" className="hover:bg-white/90">
